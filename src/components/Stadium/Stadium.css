@@ -1,0 +1,11 @@
+.stadium{
+    height:500px;
+    background-image: url('https://thumbs.dreamstime.com/b/football-stadium-13647873.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+}
+.colorLow{
+    background-color: white;
+    height:500px;
+    opacity: 0.4;
+}
